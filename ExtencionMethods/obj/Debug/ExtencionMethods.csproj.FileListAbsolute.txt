@@ -1,0 +1,5 @@
+C:\Users\Wilirambo\source\repos\SocialMediaApp\ExtencionMethods\bin\Debug\ExtencionMethods.dll
+C:\Users\Wilirambo\source\repos\SocialMediaApp\ExtencionMethods\bin\Debug\ExtencionMethods.pdb
+C:\Users\Wilirambo\source\repos\SocialMediaApp\ExtencionMethods\obj\Debug\ExtencionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Wilirambo\source\repos\SocialMediaApp\ExtencionMethods\obj\Debug\ExtencionMethods.dll
+C:\Users\Wilirambo\source\repos\SocialMediaApp\ExtencionMethods\obj\Debug\ExtencionMethods.pdb

@@ -1,0 +1,17 @@
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\DataBaseLayer.dll.config
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\EntityFramework.dll
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\ExtencionMethods.dll
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\ExtencionMethods.pdb
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\EntityFramework.xml
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\obj\Debug\DataBaseLayer.csprojAssemblyReference.cache
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\obj\Debug\DataBaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\obj\Debug\DataBaseLayer.csproj.CopyComplete
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+C:\Users\Wilirambo\source\repos\SocialMediaApp\DataBaseLayer\obj\Debug\DataBaseLayer.pdb
